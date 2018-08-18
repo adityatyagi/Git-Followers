@@ -1,6 +1,6 @@
 # DeployDemo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8, Node: 10.8.0, Angular: 6.1.3
 
 ## Development server
 
